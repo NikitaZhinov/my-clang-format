@@ -31,7 +31,6 @@ Cpp11BracedListStyle: false
 EmptyLineAfterAccessModifier: Never
 EmptyLineBeforeAccessModifier: Always
 FixNamespaceComments: true
-IncludeBlocks: Regroup
 IndentCaseLabels: true
 IndentExternBlock: Indent
 IndentPPDirectives: BeforeHash
@@ -42,7 +41,7 @@ ReferenceAlignment: Right
 ReflowComments: true
 SeparateDefinitionBlocks: Always
 ShortNamespaceLines: 0
-SortIncludes: CaseSensitive
+SortIncludes: Never
 SpaceAfterCStyleCast: false
 SpaceAfterLogicalNot: false
 SpaceAfterTemplateKeyword: true
